@@ -30,6 +30,7 @@ export default function RestaurantApp() {
   return (
     <View style={styles.container}>
       <Text style={styles.header}>Restaurant Management</Text>
+      <Text style={styles.subHeader}>Sudip Pathak</Text>
       <Text style={styles.subHeader}>Options</Text>
 
       {/* First Row */}
